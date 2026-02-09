@@ -1,0 +1,5 @@
+uvicorn server:app --reload
+
+mongodb+srv://sohamnilvaze739:Soham@2004@med-rag.hnapijj.mongodb.net/?appName=Med-Rag
+
+mongodb+srv://sohamnilvaze739:Soham%402004@med-rag.hnapijj.mongodb.net/?appName=Med-Rag

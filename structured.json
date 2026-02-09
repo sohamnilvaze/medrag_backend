@@ -1,0 +1,241 @@
+{
+  "source": "/home/soham/medrag/MedRag-2/rag_slm/temp_Report1.pdf",
+  "patient_info": {
+    "name": "MRS RANAWARE SWATISANDIP",
+    "age_gender_raw": "31 Yrs/ Female",
+    "age_years": 31,
+    "gender": "Female",
+    "registration_date": "13-09-2025",
+    "report_datetime": "13-09-2025 06:10pm"
+  },
+  "report_type": "HAEMOGRAM (CBC)",
+  "tests": [
+    {
+      "name": "Haemoglobin",
+      "result": 13.5,
+      "unit": "gm/dL",
+      "ref_low": 12.0,
+      "ref_high": 15.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "RBC Count",
+      "result": 4.68,
+      "unit": "mill/cu mm",
+      "ref_low": 3.8,
+      "ref_high": 5.8,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Haematocrit (PCV)",
+      "result": 4.0,
+      "unit": null,
+      "ref_low": null,
+      "ref_high": null,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "MCV (Mean Corpuscular Volume)",
+      "result": 87.3,
+      "unit": "fL",
+      "ref_low": 83.0,
+      "ref_high": 101.0,
+      "flag": null,
+      "method": "(Calculated)"
+    },
+    {
+      "name": "MCH (Mean Corpuscular Hb)",
+      "result": 28.8,
+      "unit": "pg",
+      "ref_low": 27.0,
+      "ref_high": 32.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "MCHC (Mean Corpuscular Hb Conc.)",
+      "result": 33.0,
+      "unit": "gm/dL",
+      "ref_low": 32.0,
+      "ref_high": 36.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "RDW (Red cell Distribution Width)",
+      "result": 12.8,
+      "unit": "%",
+      "ref_low": 11.6,
+      "ref_high": 14.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Total WBC (Leucocyte) Count",
+      "result": 8370.0,
+      "unit": "/cu mm",
+      "ref_low": 4000.0,
+      "ref_high": 11000.0,
+      "flag": null,
+      "method": "(Fluroscence flow cyiomeiry)"
+    },
+    {
+      "name": "Neutrophils",
+      "result": 52.0,
+      "unit": "%",
+      "ref_low": 40.0,
+      "ref_high": 75.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Lymphocytes",
+      "result": 41.0,
+      "unit": "%",
+      "ref_low": 20.0,
+      "ref_high": 40.0,
+      "flag": "H",
+      "method": null
+    },
+    {
+      "name": "Eosinophils",
+      "result": 3.0,
+      "unit": "%",
+      "ref_low": 1.0,
+      "ref_high": 6.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Monocytes",
+      "result": 3.0,
+      "unit": "%",
+      "ref_low": 1.0,
+      "ref_high": 10.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Basophils",
+      "result": 0.0,
+      "unit": "%",
+      "ref_low": 0.0,
+      "ref_high": 2.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Neutrophi/Lymphocyte ratio(N/L ratio)",
+      "result": 1.24,
+      "unit": "Ratio",
+      "ref_low": 1.05,
+      "ref_high": 2.67,
+      "flag": null,
+      "method": "(Calculaied)"
+    },
+    {
+      "name": "Absolute Neutrophil Count",
+      "result": 4352.0,
+      "unit": "/cu mm",
+      "ref_low": 2000.0,
+      "ref_high": 7000.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Absolute Lymphocyte Count",
+      "result": 3515.0,
+      "unit": "/cu mm",
+      "ref_low": 1000.0,
+      "ref_high": 3000.0,
+      "flag": "H",
+      "method": null
+    },
+    {
+      "name": "Absolute Eosinophil Count",
+      "result": 251.0,
+      "unit": "/cu mm",
+      "ref_low": 20.0,
+      "ref_high": 500.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Absolute Monocyte Count",
+      "result": 251.0,
+      "unit": "/cu mm",
+      "ref_low": 200.0,
+      "ref_high": 1000.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Absolute Basophil Count",
+      "result": 100.0,
+      "unit": "/cu mm",
+      "ref_low": 0.0,
+      "ref_high": 100.0,
+      "flag": null,
+      "method": null
+    },
+    {
+      "name": "Platelet Count",
+      "result": 422000.0,
+      "unit": null,
+      "ref_low": 150000.0,
+      "ref_high": 450000.0,
+      "flag": null,
+      "method": "(Sheath Jluid mpedence)"
+    },
+    {
+      "name": "MPV (Mean Platelet Volume)",
+      "result": 7.1,
+      "unit": "fL",
+      "ref_low": 7.8,
+      "ref_high": 12.0,
+      "flag": "L",
+      "method": "(Derived from plaielet histogram)"
+    },
+    {
+      "name": "PBS For Parasites",
+      "result": 6800.0,
+      "unit": "Flowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.",
+      "ref_low": null,
+      "ref_high": null,
+      "flag": null,
+      "method": null
+    }
+  ],
+  "abnormal": [
+    {
+      "name": "Lymphocytes",
+      "result": 41.0,
+      "unit": "%",
+      "ref_low": 20.0,
+      "ref_high": 40.0,
+      "flag": "H",
+      "method": null
+    },
+    {
+      "name": "Absolute Lymphocyte Count",
+      "result": 3515.0,
+      "unit": "/cu mm",
+      "ref_low": 1000.0,
+      "ref_high": 3000.0,
+      "flag": "H",
+      "method": null
+    },
+    {
+      "name": "MPV (Mean Platelet Volume)",
+      "result": 7.1,
+      "unit": "fL",
+      "ref_low": 7.8,
+      "ref_high": 12.0,
+      "flag": "L",
+      "method": "(Derived from plaielet histogram)"
+    }
+  ]
+}
