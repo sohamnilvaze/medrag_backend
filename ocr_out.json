@@ -1,0 +1,4139 @@
+{
+  "input_path": "/home/soham/medrag/MedRag-2/temp_Report1.pdf",
+  "mongo_file_id": "69898eda2096a607db4c4814",
+  "pages": [
+    {
+      "page_index": 1,
+      "source_image": "/home/soham/medrag/MedRag-2/ocr_work/pdf_pages/page_1.png",
+      "ocr_image_used": "/home/soham/medrag/MedRag-2/ocr_work/pre_1.png",
+      "full_text": "www.dhandepathlab.com\ndhandepathlab@gmail.com\nDedisated r I xerllence\nDhandr\nCIN : U74999PN2014PTC151257\n REGISTERED\nM. D.(Path)\n020 67428400.\nM. D. (Path)\nADORESS\nTiming : $.00 a.m. to 8.30 p.m.\nSundsy : 4.00 .m. to 12.30 p.m.\ng.Ne 52301\nAdd Rag Ne 6398\nReg No 2014041752\nR342017\nRegistration.Date : 13-09-2025\n1.40\nPermanent ID No.\nPaticnt Name\nMRS RANAWARE SWATISANDIP\n: 377315\n:\nPatient ID No.\n $1 Yrs/ Female\n: 3600558\nAge / Gender\n Reg Date/Time\nReference (Dr.)\n: 13-09-2025 08:39am\nMarathe Sachin ; MS(Ortho) D.(Ortho)\nt\nSample Coll.Date/Timc; 13-09-2025 08:39an\nSample Collected : From Prabhat\nReport Date/Time\n: 13-09-2025 06:10pm\nHAEMOGRAM (CBC)\nInvestigation\nResult\nUnits\nReference Range\nHaemoglobin\n:\n13.50\n(Colorimeiric Non Cynmeth)\ngm/dL\n12.0 - 15.0\nRBC Count\n:\n4.68\n(Sheath Fluid Impedence)\nmill/cu mm\n3.8 - 5.8\nHaematocrit (PCV)\n.4\n(Calculated)\n:\n40.90\n%\n36 - 47\nMCV (Mean Corpuscular Volume)\n:\n87.30\n(Derrved from RBC histogram)\nfL\n83 - 101\nMCH (Mean Corpuscular Hb)\n(Calculaud)\n1\n28.80\npg\n27 - 32\nMCHC (Mean Corpuscular Hb Conc.)\n(Calculated)\n:\n33.00\ngm/dL\n32 - 36\nRDW (Red cell Distribution Width)\n:\n12.8\n%\n(Calculated)\n11.6 - 14.0\nRBC Morphology\n:\nNormochromic & Normocytic\nTotal WBC (Leucocyte) Count\n(Fluroscence flow cyiomeiry)\n:\n8370\n-/cu mm\n4,000 - 11,000\nNeutrophils\n52\n%\n40 - 75\nLymphocytes\n1\n: 41\n%\n20 - 40\nEosinophils\n:\n03\n%\n1-6\nMonocytes\n03\n%\n:\n1 - 10\nBasophils\n:\n00\n %\n0-2\nNeutrophi/Lymphocyte ratio(N/L ratio)\n1.24\nRatio\n1.05 - 2.67\n(Calculaied)\nAbsolute Neutrophil Count\n4352\n/cu' mm\n:\n 2000 - 7000\nAbsolute Lymphocyte Count\n: H\n3515\n/cu mm\n1000 - 3000\nAbsolute Eosinophil Count\n251\n:\n/cu mm\n20 - 500\nAbsolute Monocyte Count\n251\n' /cur mm\n:\n 200 - 1000\nAbsolute Basophil Count\n:\n0\nI /cu mm\n0 - 100\nPlatelet Count\n:\n422000\nTcu mm\n1,50,000 - 4,50,000\n(Sheath Jluid mpedence)\nMPV (Mean Platelet Volume)\n: L\n7.1\nfL\n7.8 - 12.0\n(Derived from plaielet histogram)\nPlatelet Remarks\n:\nAdequate\nPBS For Parasites\n:\nMalarial parasites not seen\nEDTA Whoie Blood - Tests done on fully automated five part Haematology anatyzers- XN1000. (Sysmex) BC-6800 Plus (Mindray). WBC Diferential by Fluorescen\nFlowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.\nPrint.Date .17-09-2025 05:38PM\nR.&hand's\nDr.Ashish N. Dhande\nDr.Nitin L. Dhande\n: M.D.(Pathology)\nM.D.(Pathology)\n37\n\"Laboratory accredlted as per ISO 15189: 2022 by NABL vide Certificate No. MC-6967.\"\nPage 1 of 6\nD\nMc-++*7\nEAR\n:\nr r\nof Dedicated Service\n1988-2025",
+      "rows": [
+        "www.dhandepathlab.com",
+        "Dedisated r I xerllence | dhandepathlab@gmail.com",
+        "Dhandr | CIN : U74999PN2014PTC151257",
+        " REGISTERED | ADORESS | Timing : $.00 a.m. to 8.30 p.m. | 020 67428400. | Sundsy : 4.00 .m. to 12.30 p.m. | Add Rag Ne 6398 | M. D.(Path) | g.Ne 52301 | R342017 | Reg No 2014041752 | M. D. (Path)",
+        "Registration.Date : 13-09-2025 | Paticnt Name | : | MRS RANAWARE SWATISANDIP | 1.40 | Permanent ID No. | Patient ID No. | : 3600558 | : 377315",
+        "Reference (Dr.) | Age / Gender |  $1 Yrs/ Female | Marathe Sachin ; MS(Ortho) D.(Ortho) | t |  Reg Date/Time | : 13-09-2025 08:39am",
+        "Sample Collected : From Prabhat | Sample Coll.Date/Timc; 13-09-2025 08:39an",
+        "Report Date/Time | : 13-09-2025 06:10pm",
+        "HAEMOGRAM (CBC)",
+        "Investigation | Result | Units | Reference Range",
+        "Haemoglobin | (Colorimeiric Non Cynmeth) | : | 13.50 | gm/dL | 12.0 - 15.0",
+        "RBC Count | (Sheath Fluid Impedence) | : | 4.68 | mill/cu mm | 3.8 - 5.8",
+        "Haematocrit (PCV) | .4",
+        "(Calculated) | : | 40.90 | % | 36 - 47",
+        "MCV (Mean Corpuscular Volume) | (Derrved from RBC histogram) | : | 87.30 | fL | 83 - 101",
+        "MCH (Mean Corpuscular Hb) | (Calculaud) | 1 | 28.80 | pg | 27 - 32",
+        "MCHC (Mean Corpuscular Hb Conc.) | (Calculated) | : | 33.00 | gm/dL | 32 - 36",
+        "RDW (Red cell Distribution Width) | (Calculated) | : | 12.8 | % | 11.6 - 14.0",
+        "RBC Morphology | : | Normochromic & Normocytic",
+        "(Fluroscence flow cyiomeiry) | Total WBC (Leucocyte) Count | : | 8370 | -/cu mm | 4,000 - 11,000",
+        "Neutrophils | 1 | 52 | % | 40 - 75",
+        "Lymphocytes | : 41 | % | 20 - 40",
+        "Eosinophils | : | 03 | % | 1-6",
+        "Monocytes | : | 03 | % | 1 - 10",
+        "Basophils | : | 00 |  % | 0-2",
+        "Neutrophi/Lymphocyte ratio(N/L ratio) | 1.24 | Ratio | 1.05 - 2.67",
+        "(Calculaied)",
+        "Absolute Neutrophil Count | : | 4352 | /cu' mm |  2000 - 7000",
+        "Absolute Lymphocyte Count | : H | 3515 | /cu mm | 1000 - 3000",
+        "Absolute Eosinophil Count | : | 251 | /cu mm | 20 - 500",
+        "Absolute Monocyte Count | : | 251 | ' /cur mm |  200 - 1000",
+        "Absolute Basophil Count | : | 0 | I /cu mm | 0 - 100",
+        "Platelet Count | : | 422000 | Tcu mm | 1,50,000 - 4,50,000",
+        "(Sheath Jluid mpedence)",
+        "MPV (Mean Platelet Volume) | : L | 7.1 | fL | 7.8 - 12.0",
+        "(Derived from plaielet histogram)",
+        "Platelet Remarks | : | Adequate",
+        "PBS For Parasites | : | Malarial parasites not seen",
+        "EDTA Whoie Blood - Tests done on fully automated five part Haematology anatyzers- XN1000. (Sysmex) BC-6800 Plus (Mindray). WBC Diferential by Fluorescen",
+        "Flowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.",
+        "Print.Date .17-09-2025 05:38PM | R.&hand's",
+        "Dr.Ashish N. Dhande | Dr.Nitin L. Dhande",
+        ": M.D.(Pathology) | M.D.(Pathology)",
+        "EAR | 37 | D | Mc-++*7 | \"Laboratory accredlted as per ISO 15189: 2022 by NABL vide Certificate No. MC-6967.\" | : | Page 1 of 6",
+        "r r",
+        "of Dedicated Service",
+        "1988-2025"
+      ],
+      "lines": [
+        {
+          "text": "www.dhandepathlab.com",
+          "conf": 0.9973667860031128,
+          "bbox": [
+            [
+              839.0,
+              3.0
+            ],
+            [
+              1059.0,
+              9.0
+            ],
+            [
+              1059.0,
+              34.0
+            ],
+            [
+              838.0,
+              28.0
+            ]
+          ]
+        },
+        {
+          "text": "dhandepathlab@gmail.com",
+          "conf": 0.9813779592514038,
+          "bbox": [
+            [
+              824.0,
+              26.0
+            ],
+            [
+              1061.0,
+              34.0
+            ],
+            [
+              1060.0,
+              58.0
+            ],
+            [
+              823.0,
+              51.0
+            ]
+          ]
+        },
+        {
+          "text": "Dedisated r I xerllence",
+          "conf": 0.7778754830360413,
+          "bbox": [
+            [
+              172.0,
+              44.0
+            ],
+            [
+              367.0,
+              44.0
+            ],
+            [
+              367.0,
+              67.0
+            ],
+            [
+              172.0,
+              67.0
+            ]
+          ]
+        },
+        {
+          "text": "Dhandr",
+          "conf": 0.7381939888000488,
+          "bbox": [
+            [
+              53.0,
+              56.0
+            ],
+            [
+              156.0,
+              62.0
+            ],
+            [
+              154.0,
+              94.0
+            ],
+            [
+              51.0,
+              87.0
+            ]
+          ]
+        },
+        {
+          "text": "CIN : U74999PN2014PTC151257",
+          "conf": 0.9851856231689453,
+          "bbox": [
+            [
+              770.0,
+              47.0
+            ],
+            [
+              1061.0,
+              56.0
+            ],
+            [
+              1060.0,
+              81.0
+            ],
+            [
+              769.0,
+              72.0
+            ]
+          ]
+        },
+        {
+          "text": " REGISTERED",
+          "conf": 0.9524513483047485,
+          "bbox": [
+            [
+              21.0,
+              151.0
+            ],
+            [
+              139.0,
+              151.0
+            ],
+            [
+              139.0,
+              170.0
+            ],
+            [
+              21.0,
+              170.0
+            ]
+          ]
+        },
+        {
+          "text": "M. D.(Path)",
+          "conf": 0.9262265563011169,
+          "bbox": [
+            [
+              778.0,
+              147.0
+            ],
+            [
+              868.0,
+              153.0
+            ],
+            [
+              867.0,
+              176.0
+            ],
+            [
+              776.0,
+              170.0
+            ]
+          ]
+        },
+        {
+          "text": "020 67428400.",
+          "conf": 0.9948669672012329,
+          "bbox": [
+            [
+              150.0,
+              162.0
+            ],
+            [
+              251.0,
+              162.0
+            ],
+            [
+              251.0,
+              181.0
+            ],
+            [
+              150.0,
+              181.0
+            ]
+          ]
+        },
+        {
+          "text": "M. D. (Path)",
+          "conf": 0.9356637597084045,
+          "bbox": [
+            [
+              995.0,
+              158.0
+            ],
+            [
+              1082.0,
+              164.0
+            ],
+            [
+              1080.0,
+              187.0
+            ],
+            [
+              993.0,
+              180.0
+            ]
+          ]
+        },
+        {
+          "text": "ADORESS",
+          "conf": 0.9890211820602417,
+          "bbox": [
+            [
+              21.0,
+              172.0
+            ],
+            [
+              96.0,
+              172.0
+            ],
+            [
+              96.0,
+              191.0
+            ],
+            [
+              21.0,
+              191.0
+            ]
+          ]
+        },
+        {
+          "text": "Timing : $.00 a.m. to 8.30 p.m.",
+          "conf": 0.9778556823730469,
+          "bbox": [
+            [
+              147.0,
+              177.0
+            ],
+            [
+              369.0,
+              181.0
+            ],
+            [
+              368.0,
+              206.0
+            ],
+            [
+              146.0,
+              202.0
+            ]
+          ]
+        },
+        {
+          "text": "Sundsy : 4.00 .m. to 12.30 p.m.",
+          "conf": 0.9246566891670227,
+          "bbox": [
+            [
+              376.0,
+              179.0
+            ],
+            [
+              605.0,
+              185.0
+            ],
+            [
+              604.0,
+              207.0
+            ],
+            [
+              375.0,
+              202.0
+            ]
+          ]
+        },
+        {
+          "text": "g.Ne 52301",
+          "conf": 0.7919958233833313,
+          "bbox": [
+            [
+              791.0,
+              170.0
+            ],
+            [
+              863.0,
+              174.0
+            ],
+            [
+              862.0,
+              194.0
+            ],
+            [
+              790.0,
+              189.0
+            ]
+          ]
+        },
+        {
+          "text": "Add Rag Ne 6398",
+          "conf": 0.7332521677017212,
+          "bbox": [
+            [
+              776.0,
+              186.0
+            ],
+            [
+              868.0,
+              192.0
+            ],
+            [
+              867.0,
+              211.0
+            ],
+            [
+              774.0,
+              205.0
+            ]
+          ]
+        },
+        {
+          "text": "Reg No 2014041752",
+          "conf": 0.8401122093200684,
+          "bbox": [
+            [
+              983.0,
+              177.0
+            ],
+            [
+              1082.0,
+              185.0
+            ],
+            [
+              1080.0,
+              208.0
+            ],
+            [
+              981.0,
+              200.0
+            ]
+          ]
+        },
+        {
+          "text": "R342017",
+          "conf": 0.8516048789024353,
+          "bbox": [
+            [
+              974.0,
+              195.0
+            ],
+            [
+              1082.0,
+              202.0
+            ],
+            [
+              1080.0,
+              222.0
+            ],
+            [
+              972.0,
+              214.0
+            ]
+          ]
+        },
+        {
+          "text": "Registration.Date : 13-09-2025",
+          "conf": 0.9705502986907959,
+          "bbox": [
+            [
+              81.0,
+              209.0
+            ],
+            [
+              334.0,
+              209.0
+            ],
+            [
+              334.0,
+              232.0
+            ],
+            [
+              81.0,
+              232.0
+            ]
+          ]
+        },
+        {
+          "text": "1.40",
+          "conf": 0.542328953742981,
+          "bbox": [
+            [
+              475.0,
+              223.0
+            ],
+            [
+              511.0,
+              223.0
+            ],
+            [
+              511.0,
+              235.0
+            ],
+            [
+              475.0,
+              235.0
+            ]
+          ]
+        },
+        {
+          "text": "Permanent ID No.",
+          "conf": 0.9717248678207397,
+          "bbox": [
+            [
+              705.0,
+              217.0
+            ],
+            [
+              834.0,
+              223.0
+            ],
+            [
+              833.0,
+              246.0
+            ],
+            [
+              704.0,
+              240.0
+            ]
+          ]
+        },
+        {
+          "text": "Paticnt Name",
+          "conf": 0.9729389548301697,
+          "bbox": [
+            [
+              81.0,
+              233.0
+            ],
+            [
+              207.0,
+              237.0
+            ],
+            [
+              206.0,
+              262.0
+            ],
+            [
+              81.0,
+              258.0
+            ]
+          ]
+        },
+        {
+          "text": "MRS RANAWARE SWATISANDIP",
+          "conf": 0.9296652674674988,
+          "bbox": [
+            [
+              233.0,
+              232.0
+            ],
+            [
+              551.0,
+              235.0
+            ],
+            [
+              551.0,
+              260.0
+            ],
+            [
+              232.0,
+              256.0
+            ]
+          ]
+        },
+        {
+          "text": ": 377315",
+          "conf": 0.9460949897766113,
+          "bbox": [
+            [
+              863.0,
+              227.0
+            ],
+            [
+              928.0,
+              227.0
+            ],
+            [
+              928.0,
+              246.0
+            ],
+            [
+              863.0,
+              246.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9974550604820251,
+          "bbox": [
+            [
+              226.0,
+              242.0
+            ],
+            [
+              236.0,
+              242.0
+            ],
+            [
+              236.0,
+              251.0
+            ],
+            [
+              226.0,
+              251.0
+            ]
+          ]
+        },
+        {
+          "text": "Patient ID No.",
+          "conf": 0.9889584183692932,
+          "bbox": [
+            [
+              705.0,
+              240.0
+            ],
+            [
+              811.0,
+              246.0
+            ],
+            [
+              810.0,
+              271.0
+            ],
+            [
+              704.0,
+              265.0
+            ]
+          ]
+        },
+        {
+          "text": " $1 Yrs/ Female",
+          "conf": 0.8834791779518127,
+          "bbox": [
+            [
+              241.0,
+              258.0
+            ],
+            [
+              375.0,
+              260.0
+            ],
+            [
+              375.0,
+              285.0
+            ],
+            [
+              241.0,
+              283.0
+            ]
+          ]
+        },
+        {
+          "text": ": 3600558",
+          "conf": 0.9926539659500122,
+          "bbox": [
+            [
+              861.0,
+              251.0
+            ],
+            [
+              938.0,
+              251.0
+            ],
+            [
+              938.0,
+              276.0
+            ],
+            [
+              861.0,
+              276.0
+            ]
+          ]
+        },
+        {
+          "text": "Age / Gender",
+          "conf": 0.9964296817779541,
+          "bbox": [
+            [
+              83.0,
+              262.0
+            ],
+            [
+              184.0,
+              262.0
+            ],
+            [
+              184.0,
+              281.0
+            ],
+            [
+              83.0,
+              281.0
+            ]
+          ]
+        },
+        {
+          "text": " Reg Date/Time",
+          "conf": 0.9366928935050964,
+          "bbox": [
+            [
+              707.0,
+              268.0
+            ],
+            [
+              816.0,
+              272.0
+            ],
+            [
+              816.0,
+              297.0
+            ],
+            [
+              706.0,
+              293.0
+            ]
+          ]
+        },
+        {
+          "text": "Reference (Dr.)",
+          "conf": 0.9992685914039612,
+          "bbox": [
+            [
+              80.0,
+              282.0
+            ],
+            [
+              202.0,
+              287.0
+            ],
+            [
+              201.0,
+              311.0
+            ],
+            [
+              79.0,
+              307.0
+            ]
+          ]
+        },
+        {
+          "text": ": 13-09-2025 08:39am",
+          "conf": 0.9776296615600586,
+          "bbox": [
+            [
+              862.0,
+              274.0
+            ],
+            [
+              1022.0,
+              283.0
+            ],
+            [
+              1020.0,
+              308.0
+            ],
+            [
+              860.0,
+              298.0
+            ]
+          ]
+        },
+        {
+          "text": "Marathe Sachin ; MS(Ortho) D.(Ortho)",
+          "conf": 0.9310636520385742,
+          "bbox": [
+            [
+              243.0,
+              284.0
+            ],
+            [
+              553.0,
+              292.0
+            ],
+            [
+              552.0,
+              315.0
+            ],
+            [
+              243.0,
+              307.0
+            ]
+          ]
+        },
+        {
+          "text": "t",
+          "conf": 0.9825782775878906,
+          "bbox": [
+            [
+              628.0,
+              286.0
+            ],
+            [
+              637.0,
+              286.0
+            ],
+            [
+              637.0,
+              299.0
+            ],
+            [
+              628.0,
+              299.0
+            ]
+          ]
+        },
+        {
+          "text": "Sample Coll.Date/Timc; 13-09-2025 08:39an",
+          "conf": 0.947524905204773,
+          "bbox": [
+            [
+              707.0,
+              296.0
+            ],
+            [
+              1025.0,
+              309.0
+            ],
+            [
+              1024.0,
+              334.0
+            ],
+            [
+              706.0,
+              321.0
+            ]
+          ]
+        },
+        {
+          "text": "Sample Collected : From Prabhat",
+          "conf": 0.9727894067764282,
+          "bbox": [
+            [
+              79.0,
+              309.0
+            ],
+            [
+              358.0,
+              313.0
+            ],
+            [
+              358.0,
+              337.0
+            ],
+            [
+              79.0,
+              334.0
+            ]
+          ]
+        },
+        {
+          "text": "Report Date/Time",
+          "conf": 0.9360476732254028,
+          "bbox": [
+            [
+              708.0,
+              323.0
+            ],
+            [
+              837.0,
+              329.0
+            ],
+            [
+              836.0,
+              353.0
+            ],
+            [
+              707.0,
+              347.0
+            ]
+          ]
+        },
+        {
+          "text": ": 13-09-2025 06:10pm",
+          "conf": 0.9760515093803406,
+          "bbox": [
+            [
+              864.0,
+              328.0
+            ],
+            [
+              1025.0,
+              338.0
+            ],
+            [
+              1024.0,
+              362.0
+            ],
+            [
+              862.0,
+              353.0
+            ]
+          ]
+        },
+        {
+          "text": "HAEMOGRAM (CBC)",
+          "conf": 0.9994828104972839,
+          "bbox": [
+            [
+              457.0,
+              356.0
+            ],
+            [
+              689.0,
+              368.0
+            ],
+            [
+              688.0,
+              397.0
+            ],
+            [
+              456.0,
+              386.0
+            ]
+          ]
+        },
+        {
+          "text": "Investigation",
+          "conf": 0.9879039525985718,
+          "bbox": [
+            [
+              78.0,
+              386.0
+            ],
+            [
+              179.0,
+              390.0
+            ],
+            [
+              178.0,
+              415.0
+            ],
+            [
+              77.0,
+              411.0
+            ]
+          ]
+        },
+        {
+          "text": "Result",
+          "conf": 0.9638505578041077,
+          "bbox": [
+            [
+              485.0,
+              398.0
+            ],
+            [
+              540.0,
+              403.0
+            ],
+            [
+              537.0,
+              429.0
+            ],
+            [
+              483.0,
+              424.0
+            ]
+          ]
+        },
+        {
+          "text": "Units",
+          "conf": 0.9853746294975281,
+          "bbox": [
+            [
+              637.0,
+              401.0
+            ],
+            [
+              684.0,
+              407.0
+            ],
+            [
+              682.0,
+              434.0
+            ],
+            [
+              635.0,
+              429.0
+            ]
+          ]
+        },
+        {
+          "text": "Reference Range",
+          "conf": 0.9158927798271179,
+          "bbox": [
+            [
+              743.0,
+              409.0
+            ],
+            [
+              870.0,
+              415.0
+            ],
+            [
+              869.0,
+              439.0
+            ],
+            [
+              742.0,
+              433.0
+            ]
+          ]
+        },
+        {
+          "text": "Haemoglobin",
+          "conf": 0.9985078573226929,
+          "bbox": [
+            [
+              80.0,
+              419.0
+            ],
+            [
+              191.0,
+              424.0
+            ],
+            [
+              191.0,
+              448.0
+            ],
+            [
+              79.0,
+              444.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9982925057411194,
+          "bbox": [
+            [
+              441.0,
+              436.0
+            ],
+            [
+              458.0,
+              436.0
+            ],
+            [
+              458.0,
+              455.0
+            ],
+            [
+              441.0,
+              455.0
+            ]
+          ]
+        },
+        {
+          "text": "13.50",
+          "conf": 0.9997736215591431,
+          "bbox": [
+            [
+              485.0,
+              428.0
+            ],
+            [
+              538.0,
+              433.0
+            ],
+            [
+              536.0,
+              459.0
+            ],
+            [
+              483.0,
+              454.0
+            ]
+          ]
+        },
+        {
+          "text": "(Colorimeiric Non Cynmeth)",
+          "conf": 0.931531548500061,
+          "bbox": [
+            [
+              80.0,
+              440.0
+            ],
+            [
+              259.0,
+              448.0
+            ],
+            [
+              258.0,
+              473.0
+            ],
+            [
+              79.0,
+              465.0
+            ]
+          ]
+        },
+        {
+          "text": "gm/dL",
+          "conf": 0.9996774792671204,
+          "bbox": [
+            [
+              641.0,
+              437.0
+            ],
+            [
+              696.0,
+              437.0
+            ],
+            [
+              696.0,
+              464.0
+            ],
+            [
+              641.0,
+              464.0
+            ]
+          ]
+        },
+        {
+          "text": "12.0 - 15.0",
+          "conf": 0.8573772311210632,
+          "bbox": [
+            [
+              743.0,
+              437.0
+            ],
+            [
+              827.0,
+              441.0
+            ],
+            [
+              826.0,
+              466.0
+            ],
+            [
+              742.0,
+              462.0
+            ]
+          ]
+        },
+        {
+          "text": "RBC Count",
+          "conf": 0.996436357498169,
+          "bbox": [
+            [
+              80.0,
+              467.0
+            ],
+            [
+              176.0,
+              473.0
+            ],
+            [
+              175.0,
+              498.0
+            ],
+            [
+              79.0,
+              491.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9989533424377441,
+          "bbox": [
+            [
+              443.0,
+              485.0
+            ],
+            [
+              458.0,
+              485.0
+            ],
+            [
+              458.0,
+              502.0
+            ],
+            [
+              443.0,
+              502.0
+            ]
+          ]
+        },
+        {
+          "text": "4.68",
+          "conf": 0.9995943307876587,
+          "bbox": [
+            [
+              487.0,
+              481.0
+            ],
+            [
+              530.0,
+              481.0
+            ],
+            [
+              530.0,
+              508.0
+            ],
+            [
+              487.0,
+              508.0
+            ]
+          ]
+        },
+        {
+          "text": "(Sheath Fluid Impedence)",
+          "conf": 0.9729252457618713,
+          "bbox": [
+            [
+              80.0,
+              491.0
+            ],
+            [
+              243.0,
+              499.0
+            ],
+            [
+              242.0,
+              524.0
+            ],
+            [
+              79.0,
+              516.0
+            ]
+          ]
+        },
+        {
+          "text": "mill/cu mm",
+          "conf": 0.9969198107719421,
+          "bbox": [
+            [
+              624.0,
+              484.0
+            ],
+            [
+              715.0,
+              491.0
+            ],
+            [
+              713.0,
+              515.0
+            ],
+            [
+              623.0,
+              509.0
+            ]
+          ]
+        },
+        {
+          "text": "3.8 - 5.8",
+          "conf": 0.9293547868728638,
+          "bbox": [
+            [
+              740.0,
+              490.0
+            ],
+            [
+              809.0,
+              490.0
+            ],
+            [
+              809.0,
+              515.0
+            ],
+            [
+              740.0,
+              515.0
+            ]
+          ]
+        },
+        {
+          "text": "Haematocrit (PCV)",
+          "conf": 0.9897634983062744,
+          "bbox": [
+            [
+              80.0,
+              518.0
+            ],
+            [
+              234.0,
+              524.0
+            ],
+            [
+              234.0,
+              548.0
+            ],
+            [
+              79.0,
+              542.0
+            ]
+          ]
+        },
+        {
+          "text": ".4",
+          "conf": 0.5713299512863159,
+          "bbox": [
+            [
+              634.0,
+              518.0
+            ],
+            [
+              663.0,
+              518.0
+            ],
+            [
+              663.0,
+              532.0
+            ],
+            [
+              634.0,
+              532.0
+            ]
+          ]
+        },
+        {
+          "text": "(Calculated)",
+          "conf": 0.9398736357688904,
+          "bbox": [
+            [
+              84.0,
+              540.0
+            ],
+            [
+              164.0,
+              547.0
+            ],
+            [
+              162.0,
+              571.0
+            ],
+            [
+              82.0,
+              565.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9947561025619507,
+          "bbox": [
+            [
+              444.0,
+              536.0
+            ],
+            [
+              460.0,
+              536.0
+            ],
+            [
+              460.0,
+              555.0
+            ],
+            [
+              444.0,
+              555.0
+            ]
+          ]
+        },
+        {
+          "text": "40.90",
+          "conf": 0.999794602394104,
+          "bbox": [
+            [
+              489.0,
+              532.0
+            ],
+            [
+              539.0,
+              532.0
+            ],
+            [
+              539.0,
+              558.0
+            ],
+            [
+              489.0,
+              558.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.8600592017173767,
+          "bbox": [
+            [
+              656.0,
+              537.0
+            ],
+            [
+              682.0,
+              537.0
+            ],
+            [
+              682.0,
+              560.0
+            ],
+            [
+              656.0,
+              560.0
+            ]
+          ]
+        },
+        {
+          "text": "36 - 47",
+          "conf": 0.9819331765174866,
+          "bbox": [
+            [
+              742.0,
+              539.0
+            ],
+            [
+              801.0,
+              539.0
+            ],
+            [
+              801.0,
+              564.0
+            ],
+            [
+              742.0,
+              564.0
+            ]
+          ]
+        },
+        {
+          "text": "MCV (Mean Corpuscular Volume)",
+          "conf": 0.9917687177658081,
+          "bbox": [
+            [
+              82.0,
+              567.0
+            ],
+            [
+              355.0,
+              580.0
+            ],
+            [
+              354.0,
+              605.0
+            ],
+            [
+              81.0,
+              592.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9951165914535522,
+          "bbox": [
+            [
+              444.0,
+              585.0
+            ],
+            [
+              461.0,
+              585.0
+            ],
+            [
+              461.0,
+              604.0
+            ],
+            [
+              444.0,
+              604.0
+            ]
+          ]
+        },
+        {
+          "text": "87.30",
+          "conf": 0.9987499117851257,
+          "bbox": [
+            [
+              489.0,
+              579.0
+            ],
+            [
+              541.0,
+              584.0
+            ],
+            [
+              539.0,
+              610.0
+            ],
+            [
+              487.0,
+              605.0
+            ]
+          ]
+        },
+        {
+          "text": "(Derrved from RBC histogram)",
+          "conf": 0.9707158803939819,
+          "bbox": [
+            [
+              85.0,
+              590.0
+            ],
+            [
+              281.0,
+              599.0
+            ],
+            [
+              280.0,
+              624.0
+            ],
+            [
+              84.0,
+              614.0
+            ]
+          ]
+        },
+        {
+          "text": "fL",
+          "conf": 0.9838355779647827,
+          "bbox": [
+            [
+              651.0,
+              587.0
+            ],
+            [
+              682.0,
+              587.0
+            ],
+            [
+              682.0,
+              609.0
+            ],
+            [
+              651.0,
+              609.0
+            ]
+          ]
+        },
+        {
+          "text": "83 - 101",
+          "conf": 0.891398012638092,
+          "bbox": [
+            [
+              742.0,
+              583.0
+            ],
+            [
+              810.0,
+              587.0
+            ],
+            [
+              808.0,
+              613.0
+            ],
+            [
+              740.0,
+              609.0
+            ]
+          ]
+        },
+        {
+          "text": "MCH (Mean Corpuscular Hb)",
+          "conf": 0.9936338067054749,
+          "bbox": [
+            [
+              85.0,
+              616.0
+            ],
+            [
+              319.0,
+              629.0
+            ],
+            [
+              318.0,
+              654.0
+            ],
+            [
+              84.0,
+              641.0
+            ]
+          ]
+        },
+        {
+          "text": "(Calculaud)",
+          "conf": 0.9341474175453186,
+          "bbox": [
+            [
+              87.0,
+              637.0
+            ],
+            [
+              171.0,
+              643.0
+            ],
+            [
+              169.0,
+              668.0
+            ],
+            [
+              85.0,
+              662.0
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "conf": 0.8633865118026733,
+          "bbox": [
+            [
+              446.0,
+              636.0
+            ],
+            [
+              461.0,
+              636.0
+            ],
+            [
+              461.0,
+              653.0
+            ],
+            [
+              446.0,
+              653.0
+            ]
+          ]
+        },
+        {
+          "text": "28.80",
+          "conf": 0.9993476867675781,
+          "bbox": [
+            [
+              491.0,
+              628.0
+            ],
+            [
+              541.0,
+              633.0
+            ],
+            [
+              539.0,
+              659.0
+            ],
+            [
+              488.0,
+              654.0
+            ]
+          ]
+        },
+        {
+          "text": "pg",
+          "conf": 0.9117300510406494,
+          "bbox": [
+            [
+              657.0,
+              636.0
+            ],
+            [
+              684.0,
+              640.0
+            ],
+            [
+              681.0,
+              665.0
+            ],
+            [
+              654.0,
+              661.0
+            ]
+          ]
+        },
+        {
+          "text": "27 - 32",
+          "conf": 0.980728268623352,
+          "bbox": [
+            [
+              742.0,
+              636.0
+            ],
+            [
+              801.0,
+              636.0
+            ],
+            [
+              801.0,
+              660.0
+            ],
+            [
+              742.0,
+              660.0
+            ]
+          ]
+        },
+        {
+          "text": "MCHC (Mean Corpuscular Hb Conc.)",
+          "conf": 0.9860208630561829,
+          "bbox": [
+            [
+              87.0,
+              663.0
+            ],
+            [
+              384.0,
+              680.0
+            ],
+            [
+              383.0,
+              705.0
+            ],
+            [
+              86.0,
+              688.0
+            ]
+          ]
+        },
+        {
+          "text": "(Calculated)",
+          "conf": 0.9302132725715637,
+          "bbox": [
+            [
+              88.0,
+              690.0
+            ],
+            [
+              169.0,
+              694.0
+            ],
+            [
+              168.0,
+              713.0
+            ],
+            [
+              87.0,
+              709.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9976670742034912,
+          "bbox": [
+            [
+              448.0,
+              683.0
+            ],
+            [
+              465.0,
+              683.0
+            ],
+            [
+              465.0,
+              701.0
+            ],
+            [
+              448.0,
+              701.0
+            ]
+          ]
+        },
+        {
+          "text": "33.00",
+          "conf": 0.9979743957519531,
+          "bbox": [
+            [
+              494.0,
+              681.0
+            ],
+            [
+              542.0,
+              681.0
+            ],
+            [
+              542.0,
+              704.0
+            ],
+            [
+              494.0,
+              704.0
+            ]
+          ]
+        },
+        {
+          "text": "gm/dL",
+          "conf": 0.9957479238510132,
+          "bbox": [
+            [
+              637.0,
+              683.0
+            ],
+            [
+              697.0,
+              683.0
+            ],
+            [
+              697.0,
+              708.0
+            ],
+            [
+              637.0,
+              708.0
+            ]
+          ]
+        },
+        {
+          "text": "32 - 36",
+          "conf": 0.942851722240448,
+          "bbox": [
+            [
+              742.0,
+              683.0
+            ],
+            [
+              801.0,
+              683.0
+            ],
+            [
+              801.0,
+              708.0
+            ],
+            [
+              742.0,
+              708.0
+            ]
+          ]
+        },
+        {
+          "text": "RDW (Red cell Distribution Width)",
+          "conf": 0.9924569725990295,
+          "bbox": [
+            [
+              87.0,
+              711.0
+            ],
+            [
+              367.0,
+              728.0
+            ],
+            [
+              366.0,
+              752.0
+            ],
+            [
+              86.0,
+              735.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9994351267814636,
+          "bbox": [
+            [
+              449.0,
+              731.0
+            ],
+            [
+              465.0,
+              731.0
+            ],
+            [
+              465.0,
+              750.0
+            ],
+            [
+              449.0,
+              750.0
+            ]
+          ]
+        },
+        {
+          "text": "12.8",
+          "conf": 0.9992916584014893,
+          "bbox": [
+            [
+              495.0,
+              723.0
+            ],
+            [
+              535.0,
+              728.0
+            ],
+            [
+              531.0,
+              754.0
+            ],
+            [
+              491.0,
+              749.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.9944644570350647,
+          "bbox": [
+            [
+              661.0,
+              724.0
+            ],
+            [
+              687.0,
+              730.0
+            ],
+            [
+              681.0,
+              757.0
+            ],
+            [
+              655.0,
+              751.0
+            ]
+          ]
+        },
+        {
+          "text": "(Calculated)",
+          "conf": 0.975323498249054,
+          "bbox": [
+            [
+              88.0,
+              737.0
+            ],
+            [
+              171.0,
+              741.0
+            ],
+            [
+              170.0,
+              761.0
+            ],
+            [
+              87.0,
+              757.0
+            ]
+          ]
+        },
+        {
+          "text": "11.6 - 14.0",
+          "conf": 0.9939310550689697,
+          "bbox": [
+            [
+              744.0,
+              729.0
+            ],
+            [
+              828.0,
+              729.0
+            ],
+            [
+              828.0,
+              753.0
+            ],
+            [
+              744.0,
+              753.0
+            ]
+          ]
+        },
+        {
+          "text": "RBC Morphology",
+          "conf": 0.9985418915748596,
+          "bbox": [
+            [
+              87.0,
+              758.0
+            ],
+            [
+              233.0,
+              770.0
+            ],
+            [
+              231.0,
+              794.0
+            ],
+            [
+              85.0,
+              783.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.999861478805542,
+          "bbox": [
+            [
+              448.0,
+              780.0
+            ],
+            [
+              462.0,
+              775.0
+            ],
+            [
+              468.0,
+              794.0
+            ],
+            [
+              454.0,
+              799.0
+            ]
+          ]
+        },
+        {
+          "text": "Normochromic & Normocytic",
+          "conf": 0.9886100888252258,
+          "bbox": [
+            [
+              491.0,
+              771.0
+            ],
+            [
+              718.0,
+              775.0
+            ],
+            [
+              718.0,
+              799.0
+            ],
+            [
+              491.0,
+              795.0
+            ]
+          ]
+        },
+        {
+          "text": "Total WBC (Leucocyte) Count",
+          "conf": 0.982623279094696,
+          "bbox": [
+            [
+              87.0,
+              785.0
+            ],
+            [
+              345.0,
+              803.0
+            ],
+            [
+              343.0,
+              828.0
+            ],
+            [
+              86.0,
+              809.0
+            ]
+          ]
+        },
+        {
+          "text": "(Fluroscence flow cyiomeiry)",
+          "conf": 0.9766359925270081,
+          "bbox": [
+            [
+              87.0,
+              806.0
+            ],
+            [
+              276.0,
+              821.0
+            ],
+            [
+              274.0,
+              845.0
+            ],
+            [
+              85.0,
+              830.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9984257221221924,
+          "bbox": [
+            [
+              450.0,
+              804.0
+            ],
+            [
+              469.0,
+              807.0
+            ],
+            [
+              466.0,
+              826.0
+            ],
+            [
+              447.0,
+              823.0
+            ]
+          ]
+        },
+        {
+          "text": "8370",
+          "conf": 0.9908407330513,
+          "bbox": [
+            [
+              496.0,
+              803.0
+            ],
+            [
+              537.0,
+              803.0
+            ],
+            [
+              537.0,
+              824.0
+            ],
+            [
+              496.0,
+              824.0
+            ]
+          ]
+        },
+        {
+          "text": "-/cu mm",
+          "conf": 0.9291678667068481,
+          "bbox": [
+            [
+              629.0,
+              799.0
+            ],
+            [
+              703.0,
+              803.0
+            ],
+            [
+              702.0,
+              828.0
+            ],
+            [
+              628.0,
+              823.0
+            ]
+          ]
+        },
+        {
+          "text": "4,000 - 11,000",
+          "conf": 0.9920839667320251,
+          "bbox": [
+            [
+              746.0,
+              803.0
+            ],
+            [
+              852.0,
+              803.0
+            ],
+            [
+              852.0,
+              822.0
+            ],
+            [
+              746.0,
+              822.0
+            ]
+          ]
+        },
+        {
+          "text": "Neutrophils",
+          "conf": 0.9826124310493469,
+          "bbox": [
+            [
+              87.0,
+              832.0
+            ],
+            [
+              186.0,
+              838.0
+            ],
+            [
+              185.0,
+              863.0
+            ],
+            [
+              86.0,
+              857.0
+            ]
+          ]
+        },
+        {
+          "text": "52",
+          "conf": 0.9997632503509521,
+          "bbox": [
+            [
+              496.0,
+              847.0
+            ],
+            [
+              522.0,
+              847.0
+            ],
+            [
+              522.0,
+              869.0
+            ],
+            [
+              496.0,
+              869.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.9989185333251953,
+          "bbox": [
+            [
+              663.0,
+              848.0
+            ],
+            [
+              680.0,
+              848.0
+            ],
+            [
+              680.0,
+              866.0
+            ],
+            [
+              663.0,
+              866.0
+            ]
+          ]
+        },
+        {
+          "text": "40 - 75",
+          "conf": 0.9614500403404236,
+          "bbox": [
+            [
+              744.0,
+              843.0
+            ],
+            [
+              802.0,
+              843.0
+            ],
+            [
+              802.0,
+              868.0
+            ],
+            [
+              744.0,
+              868.0
+            ]
+          ]
+        },
+        {
+          "text": "Lymphocytes",
+          "conf": 0.9997720122337341,
+          "bbox": [
+            [
+              87.0,
+              860.0
+            ],
+            [
+              199.0,
+              868.0
+            ],
+            [
+              197.0,
+              894.0
+            ],
+            [
+              86.0,
+              886.0
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "conf": 0.7410009503364563,
+          "bbox": [
+            [
+              451.0,
+              854.0
+            ],
+            [
+              468.0,
+              854.0
+            ],
+            [
+              468.0,
+              871.0
+            ],
+            [
+              451.0,
+              871.0
+            ]
+          ]
+        },
+        {
+          "text": ": 41",
+          "conf": 0.7861812114715576,
+          "bbox": [
+            [
+              453.0,
+              876.0
+            ],
+            [
+              482.0,
+              876.0
+            ],
+            [
+              482.0,
+              897.0
+            ],
+            [
+              453.0,
+              897.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.9998243451118469,
+          "bbox": [
+            [
+              661.0,
+              873.0
+            ],
+            [
+              684.0,
+              873.0
+            ],
+            [
+              684.0,
+              897.0
+            ],
+            [
+              661.0,
+              897.0
+            ]
+          ]
+        },
+        {
+          "text": "20 - 40",
+          "conf": 0.9557443857192993,
+          "bbox": [
+            [
+              744.0,
+              871.0
+            ],
+            [
+              804.0,
+              871.0
+            ],
+            [
+              804.0,
+              896.0
+            ],
+            [
+              744.0,
+              896.0
+            ]
+          ]
+        },
+        {
+          "text": "Eosinophils",
+          "conf": 0.999874472618103,
+          "bbox": [
+            [
+              89.0,
+              890.0
+            ],
+            [
+              188.0,
+              896.0
+            ],
+            [
+              187.0,
+              923.0
+            ],
+            [
+              87.0,
+              916.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9995809197425842,
+          "bbox": [
+            [
+              453.0,
+              906.0
+            ],
+            [
+              468.0,
+              906.0
+            ],
+            [
+              468.0,
+              927.0
+            ],
+            [
+              453.0,
+              927.0
+            ]
+          ]
+        },
+        {
+          "text": "03",
+          "conf": 0.995774507522583,
+          "bbox": [
+            [
+              497.0,
+              900.0
+            ],
+            [
+              525.0,
+              905.0
+            ],
+            [
+              520.0,
+              928.0
+            ],
+            [
+              493.0,
+              923.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.9995624423027039,
+          "bbox": [
+            [
+              661.0,
+              901.0
+            ],
+            [
+              684.0,
+              901.0
+            ],
+            [
+              684.0,
+              926.0
+            ],
+            [
+              661.0,
+              926.0
+            ]
+          ]
+        },
+        {
+          "text": "1-6",
+          "conf": 0.9951107501983643,
+          "bbox": [
+            [
+              746.0,
+              899.0
+            ],
+            [
+              787.0,
+              899.0
+            ],
+            [
+              787.0,
+              926.0
+            ],
+            [
+              746.0,
+              926.0
+            ]
+          ]
+        },
+        {
+          "text": "Monocytes",
+          "conf": 0.9995136260986328,
+          "bbox": [
+            [
+              89.0,
+              920.0
+            ],
+            [
+              183.0,
+              926.0
+            ],
+            [
+              181.0,
+              951.0
+            ],
+            [
+              87.0,
+              944.0
+            ]
+          ]
+        },
+        {
+          "text": "03",
+          "conf": 0.9978901743888855,
+          "bbox": [
+            [
+              498.0,
+              931.0
+            ],
+            [
+              523.0,
+              931.0
+            ],
+            [
+              523.0,
+              954.0
+            ],
+            [
+              498.0,
+              954.0
+            ]
+          ]
+        },
+        {
+          "text": "%",
+          "conf": 0.9957253932952881,
+          "bbox": [
+            [
+              634.0,
+              923.0
+            ],
+            [
+              688.0,
+              930.0
+            ],
+            [
+              685.0,
+              956.0
+            ],
+            [
+              631.0,
+              949.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9985260367393494,
+          "bbox": [
+            [
+              453.0,
+              934.0
+            ],
+            [
+              468.0,
+              934.0
+            ],
+            [
+              468.0,
+              955.0
+            ],
+            [
+              453.0,
+              955.0
+            ]
+          ]
+        },
+        {
+          "text": "1 - 10",
+          "conf": 0.9386937022209167,
+          "bbox": [
+            [
+              747.0,
+              931.0
+            ],
+            [
+              796.0,
+              931.0
+            ],
+            [
+              796.0,
+              954.0
+            ],
+            [
+              747.0,
+              954.0
+            ]
+          ]
+        },
+        {
+          "text": "Basophils",
+          "conf": 0.9997068047523499,
+          "bbox": [
+            [
+              90.0,
+              948.0
+            ],
+            [
+              174.0,
+              952.0
+            ],
+            [
+              173.0,
+              979.0
+            ],
+            [
+              89.0,
+              974.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9980162382125854,
+          "bbox": [
+            [
+              453.0,
+              962.0
+            ],
+            [
+              470.0,
+              962.0
+            ],
+            [
+              470.0,
+              982.0
+            ],
+            [
+              453.0,
+              982.0
+            ]
+          ]
+        },
+        {
+          "text": "00",
+          "conf": 0.9546591639518738,
+          "bbox": [
+            [
+              498.0,
+              957.0
+            ],
+            [
+              525.0,
+              957.0
+            ],
+            [
+              525.0,
+              982.0
+            ],
+            [
+              498.0,
+              982.0
+            ]
+          ]
+        },
+        {
+          "text": " %",
+          "conf": 0.8322396874427795,
+          "bbox": [
+            [
+              651.0,
+              955.0
+            ],
+            [
+              689.0,
+              955.0
+            ],
+            [
+              689.0,
+              983.0
+            ],
+            [
+              651.0,
+              983.0
+            ]
+          ]
+        },
+        {
+          "text": "0-2",
+          "conf": 0.986905574798584,
+          "bbox": [
+            [
+              746.0,
+              959.0
+            ],
+            [
+              787.0,
+              959.0
+            ],
+            [
+              787.0,
+              980.0
+            ],
+            [
+              746.0,
+              980.0
+            ]
+          ]
+        },
+        {
+          "text": "Neutrophi/Lymphocyte ratio(N/L ratio)",
+          "conf": 0.9975282549858093,
+          "bbox": [
+            [
+              90.0,
+              974.0
+            ],
+            [
+              402.0,
+              986.0
+            ],
+            [
+              401.0,
+              1015.0
+            ],
+            [
+              89.0,
+              1004.0
+            ]
+          ]
+        },
+        {
+          "text": "1.24",
+          "conf": 0.9994925260543823,
+          "bbox": [
+            [
+              498.0,
+              983.0
+            ],
+            [
+              539.0,
+              983.0
+            ],
+            [
+              539.0,
+              1010.0
+            ],
+            [
+              498.0,
+              1010.0
+            ]
+          ]
+        },
+        {
+          "text": "Ratio",
+          "conf": 0.9995721578598022,
+          "bbox": [
+            [
+              651.0,
+              983.0
+            ],
+            [
+              699.0,
+              983.0
+            ],
+            [
+              699.0,
+              1010.0
+            ],
+            [
+              651.0,
+              1010.0
+            ]
+          ]
+        },
+        {
+          "text": "1.05 - 2.67",
+          "conf": 0.9979184865951538,
+          "bbox": [
+            [
+              747.0,
+              983.0
+            ],
+            [
+              830.0,
+              983.0
+            ],
+            [
+              830.0,
+              1008.0
+            ],
+            [
+              747.0,
+              1008.0
+            ]
+          ]
+        },
+        {
+          "text": "(Calculaied)",
+          "conf": 0.892305314540863,
+          "bbox": [
+            [
+              92.0,
+              997.0
+            ],
+            [
+              178.0,
+              1003.0
+            ],
+            [
+              176.0,
+              1028.0
+            ],
+            [
+              91.0,
+              1022.0
+            ]
+          ]
+        },
+        {
+          "text": "Absolute Neutrophil Count",
+          "conf": 0.9994904398918152,
+          "bbox": [
+            [
+              93.0,
+              1025.0
+            ],
+            [
+              307.0,
+              1031.0
+            ],
+            [
+              306.0,
+              1056.0
+            ],
+            [
+              93.0,
+              1050.0
+            ]
+          ]
+        },
+        {
+          "text": "4352",
+          "conf": 0.9996465444564819,
+          "bbox": [
+            [
+              501.0,
+              1031.0
+            ],
+            [
+              542.0,
+              1031.0
+            ],
+            [
+              542.0,
+              1052.0
+            ],
+            [
+              501.0,
+              1052.0
+            ]
+          ]
+        },
+        {
+          "text": "/cu' mm",
+          "conf": 0.8357139229774475,
+          "bbox": [
+            [
+              637.0,
+              1024.0
+            ],
+            [
+              709.0,
+              1024.0
+            ],
+            [
+              709.0,
+              1056.0
+            ],
+            [
+              637.0,
+              1056.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.999213457107544,
+          "bbox": [
+            [
+              456.0,
+              1034.0
+            ],
+            [
+              470.0,
+              1034.0
+            ],
+            [
+              470.0,
+              1052.0
+            ],
+            [
+              456.0,
+              1052.0
+            ]
+          ]
+        },
+        {
+          "text": " 2000 - 7000",
+          "conf": 0.9617619514465332,
+          "bbox": [
+            [
+              747.0,
+              1029.0
+            ],
+            [
+              840.0,
+              1029.0
+            ],
+            [
+              840.0,
+              1054.0
+            ],
+            [
+              747.0,
+              1054.0
+            ]
+          ]
+        },
+        {
+          "text": "Absolute Lymphocyte Count",
+          "conf": 0.9998191595077515,
+          "bbox": [
+            [
+              93.0,
+              1054.0
+            ],
+            [
+              319.0,
+              1059.0
+            ],
+            [
+              318.0,
+              1084.0
+            ],
+            [
+              93.0,
+              1078.0
+            ]
+          ]
+        },
+        {
+          "text": ": H",
+          "conf": 0.8102447390556335,
+          "bbox": [
+            [
+              456.0,
+              1057.0
+            ],
+            [
+              487.0,
+              1057.0
+            ],
+            [
+              487.0,
+              1078.0
+            ],
+            [
+              456.0,
+              1078.0
+            ]
+          ]
+        },
+        {
+          "text": "3515",
+          "conf": 0.9995790123939514,
+          "bbox": [
+            [
+              498.0,
+              1056.0
+            ],
+            [
+              544.0,
+              1056.0
+            ],
+            [
+              544.0,
+              1082.0
+            ],
+            [
+              498.0,
+              1082.0
+            ]
+          ]
+        },
+        {
+          "text": "/cu mm",
+          "conf": 0.8912355303764343,
+          "bbox": [
+            [
+              635.0,
+              1052.0
+            ],
+            [
+              708.0,
+              1056.0
+            ],
+            [
+              707.0,
+              1084.0
+            ],
+            [
+              633.0,
+              1080.0
+            ]
+          ]
+        },
+        {
+          "text": "1000 - 3000",
+          "conf": 0.919133186340332,
+          "bbox": [
+            [
+              748.0,
+              1053.0
+            ],
+            [
+              841.0,
+              1058.0
+            ],
+            [
+              840.0,
+              1082.0
+            ],
+            [
+              747.0,
+              1078.0
+            ]
+          ]
+        },
+        {
+          "text": "Absolute Eosinophil Count",
+          "conf": 0.9999315142631531,
+          "bbox": [
+            [
+              93.0,
+              1082.0
+            ],
+            [
+              307.0,
+              1087.0
+            ],
+            [
+              306.0,
+              1112.0
+            ],
+            [
+              93.0,
+              1106.0
+            ]
+          ]
+        },
+        {
+          "text": "251",
+          "conf": 0.9996838569641113,
+          "bbox": [
+            [
+              499.0,
+              1077.0
+            ],
+            [
+              537.0,
+              1083.0
+            ],
+            [
+              533.0,
+              1111.0
+            ],
+            [
+              495.0,
+              1106.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9988821148872375,
+          "bbox": [
+            [
+              456.0,
+              1089.0
+            ],
+            [
+              470.0,
+              1089.0
+            ],
+            [
+              470.0,
+              1108.0
+            ],
+            [
+              456.0,
+              1108.0
+            ]
+          ]
+        },
+        {
+          "text": "/cu mm",
+          "conf": 0.9313485622406006,
+          "bbox": [
+            [
+              643.0,
+              1081.0
+            ],
+            [
+              710.0,
+              1086.0
+            ],
+            [
+              708.0,
+              1112.0
+            ],
+            [
+              642.0,
+              1108.0
+            ]
+          ]
+        },
+        {
+          "text": "20 - 500",
+          "conf": 0.9891964197158813,
+          "bbox": [
+            [
+              747.0,
+              1084.0
+            ],
+            [
+              816.0,
+              1084.0
+            ],
+            [
+              816.0,
+              1108.0
+            ],
+            [
+              747.0,
+              1108.0
+            ]
+          ]
+        },
+        {
+          "text": "Absolute Monocyte Count",
+          "conf": 0.9997421503067017,
+          "bbox": [
+            [
+              95.0,
+              1110.0
+            ],
+            [
+              302.0,
+              1115.0
+            ],
+            [
+              301.0,
+              1138.0
+            ],
+            [
+              94.0,
+              1133.0
+            ]
+          ]
+        },
+        {
+          "text": "251",
+          "conf": 0.9996578097343445,
+          "bbox": [
+            [
+              501.0,
+              1112.0
+            ],
+            [
+              534.0,
+              1112.0
+            ],
+            [
+              534.0,
+              1135.0
+            ],
+            [
+              501.0,
+              1135.0
+            ]
+          ]
+        },
+        {
+          "text": "' /cur mm",
+          "conf": 0.7892419099807739,
+          "bbox": [
+            [
+              636.0,
+              1108.0
+            ],
+            [
+              710.0,
+              1112.0
+            ],
+            [
+              708.0,
+              1137.0
+            ],
+            [
+              635.0,
+              1132.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9995511174201965,
+          "bbox": [
+            [
+              452.0,
+              1118.0
+            ],
+            [
+              468.0,
+              1112.0
+            ],
+            [
+              475.0,
+              1130.0
+            ],
+            [
+              459.0,
+              1136.0
+            ]
+          ]
+        },
+        {
+          "text": " 200 - 1000",
+          "conf": 0.9251960515975952,
+          "bbox": [
+            [
+              749.0,
+              1112.0
+            ],
+            [
+              833.0,
+              1112.0
+            ],
+            [
+              833.0,
+              1136.0
+            ],
+            [
+              749.0,
+              1136.0
+            ]
+          ]
+        },
+        {
+          "text": "Absolute Basophil Count",
+          "conf": 0.99284827709198,
+          "bbox": [
+            [
+              95.0,
+              1138.0
+            ],
+            [
+              291.0,
+              1140.0
+            ],
+            [
+              291.0,
+              1164.0
+            ],
+            [
+              95.0,
+              1163.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9971895813941956,
+          "bbox": [
+            [
+              458.0,
+              1143.0
+            ],
+            [
+              472.0,
+              1143.0
+            ],
+            [
+              472.0,
+              1161.0
+            ],
+            [
+              458.0,
+              1161.0
+            ]
+          ]
+        },
+        {
+          "text": "0",
+          "conf": 0.9518905878067017,
+          "bbox": [
+            [
+              499.0,
+              1138.0
+            ],
+            [
+              520.0,
+              1138.0
+            ],
+            [
+              520.0,
+              1163.0
+            ],
+            [
+              499.0,
+              1163.0
+            ]
+          ]
+        },
+        {
+          "text": "I /cu mm",
+          "conf": 0.9589078426361084,
+          "bbox": [
+            [
+              633.0,
+              1134.0
+            ],
+            [
+              712.0,
+              1140.0
+            ],
+            [
+              710.0,
+              1165.0
+            ],
+            [
+              631.0,
+              1159.0
+            ]
+          ]
+        },
+        {
+          "text": "0 - 100",
+          "conf": 0.947603166103363,
+          "bbox": [
+            [
+              749.0,
+              1138.0
+            ],
+            [
+              808.0,
+              1138.0
+            ],
+            [
+              808.0,
+              1163.0
+            ],
+            [
+              749.0,
+              1163.0
+            ]
+          ]
+        },
+        {
+          "text": "Platelet Count",
+          "conf": 0.9998109936714172,
+          "bbox": [
+            [
+              95.0,
+              1164.0
+            ],
+            [
+              217.0,
+              1170.0
+            ],
+            [
+              216.0,
+              1195.0
+            ],
+            [
+              94.0,
+              1189.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9988521337509155,
+          "bbox": [
+            [
+              456.0,
+              1171.0
+            ],
+            [
+              474.0,
+              1171.0
+            ],
+            [
+              474.0,
+              1189.0
+            ],
+            [
+              456.0,
+              1189.0
+            ]
+          ]
+        },
+        {
+          "text": "422000",
+          "conf": 0.9997813701629639,
+          "bbox": [
+            [
+              501.0,
+              1166.0
+            ],
+            [
+              563.0,
+              1166.0
+            ],
+            [
+              563.0,
+              1191.0
+            ],
+            [
+              501.0,
+              1191.0
+            ]
+          ]
+        },
+        {
+          "text": "Tcu mm",
+          "conf": 0.8994296193122864,
+          "bbox": [
+            [
+              647.0,
+              1164.0
+            ],
+            [
+              712.0,
+              1168.0
+            ],
+            [
+              710.0,
+              1193.0
+            ],
+            [
+              645.0,
+              1188.0
+            ]
+          ]
+        },
+        {
+          "text": "1,50,000 - 4,50,000",
+          "conf": 0.9906370043754578,
+          "bbox": [
+            [
+              752.0,
+              1168.0
+            ],
+            [
+              894.0,
+              1168.0
+            ],
+            [
+              894.0,
+              1191.0
+            ],
+            [
+              752.0,
+              1191.0
+            ]
+          ]
+        },
+        {
+          "text": "(Sheath Jluid mpedence)",
+          "conf": 0.9185431003570557,
+          "bbox": [
+            [
+              95.0,
+              1189.0
+            ],
+            [
+              253.0,
+              1191.0
+            ],
+            [
+              253.0,
+              1215.0
+            ],
+            [
+              95.0,
+              1213.0
+            ]
+          ]
+        },
+        {
+          "text": "MPV (Mean Platelet Volume)",
+          "conf": 0.9852222800254822,
+          "bbox": [
+            [
+              95.0,
+              1213.0
+            ],
+            [
+              327.0,
+              1215.0
+            ],
+            [
+              327.0,
+              1240.0
+            ],
+            [
+              95.0,
+              1238.0
+            ]
+          ]
+        },
+        {
+          "text": ": L",
+          "conf": 0.9083688855171204,
+          "bbox": [
+            [
+              458.0,
+              1212.0
+            ],
+            [
+              489.0,
+              1212.0
+            ],
+            [
+              489.0,
+              1235.0
+            ],
+            [
+              458.0,
+              1235.0
+            ]
+          ]
+        },
+        {
+          "text": "7.1",
+          "conf": 0.9998877644538879,
+          "bbox": [
+            [
+              496.0,
+              1214.0
+            ],
+            [
+              530.0,
+              1214.0
+            ],
+            [
+              530.0,
+              1235.0
+            ],
+            [
+              496.0,
+              1235.0
+            ]
+          ]
+        },
+        {
+          "text": "fL",
+          "conf": 0.8113890290260315,
+          "bbox": [
+            [
+              666.0,
+              1212.0
+            ],
+            [
+              692.0,
+              1218.0
+            ],
+            [
+              688.0,
+              1238.0
+            ],
+            [
+              661.0,
+              1232.0
+            ]
+          ]
+        },
+        {
+          "text": "7.8 - 12.0",
+          "conf": 0.9298446774482727,
+          "bbox": [
+            [
+              752.0,
+              1212.0
+            ],
+            [
+              826.0,
+              1212.0
+            ],
+            [
+              826.0,
+              1236.0
+            ],
+            [
+              752.0,
+              1236.0
+            ]
+          ]
+        },
+        {
+          "text": "(Derived from plaielet histogram)",
+          "conf": 0.9366370439529419,
+          "bbox": [
+            [
+              95.0,
+              1236.0
+            ],
+            [
+              307.0,
+              1240.0
+            ],
+            [
+              306.0,
+              1263.0
+            ],
+            [
+              95.0,
+              1259.0
+            ]
+          ]
+        },
+        {
+          "text": "Platelet Remarks",
+          "conf": 0.9926813244819641,
+          "bbox": [
+            [
+              95.0,
+              1261.0
+            ],
+            [
+              233.0,
+              1265.0
+            ],
+            [
+              232.0,
+              1288.0
+            ],
+            [
+              94.0,
+              1284.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9759505391120911,
+          "bbox": [
+            [
+              458.0,
+              1264.0
+            ],
+            [
+              472.0,
+              1264.0
+            ],
+            [
+              472.0,
+              1280.0
+            ],
+            [
+              458.0,
+              1280.0
+            ]
+          ]
+        },
+        {
+          "text": "Adequate",
+          "conf": 0.9999415874481201,
+          "bbox": [
+            [
+              502.0,
+              1257.0
+            ],
+            [
+              581.0,
+              1261.0
+            ],
+            [
+              579.0,
+              1286.0
+            ],
+            [
+              501.0,
+              1282.0
+            ]
+          ]
+        },
+        {
+          "text": "PBS For Parasites",
+          "conf": 0.9986445307731628,
+          "bbox": [
+            [
+              97.0,
+              1289.0
+            ],
+            [
+              252.0,
+              1293.0
+            ],
+            [
+              251.0,
+              1317.0
+            ],
+            [
+              96.0,
+              1313.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.9586092233657837,
+          "bbox": [
+            [
+              461.0,
+              1294.0
+            ],
+            [
+              470.0,
+              1294.0
+            ],
+            [
+              470.0,
+              1307.0
+            ],
+            [
+              461.0,
+              1307.0
+            ]
+          ]
+        },
+        {
+          "text": "Malarial parasites not seen",
+          "conf": 0.9992673397064209,
+          "bbox": [
+            [
+              499.0,
+              1285.0
+            ],
+            [
+              704.0,
+              1287.0
+            ],
+            [
+              704.0,
+              1312.0
+            ],
+            [
+              499.0,
+              1310.0
+            ]
+          ]
+        },
+        {
+          "text": "EDTA Whoie Blood - Tests done on fully automated five part Haematology anatyzers- XN1000. (Sysmex) BC-6800 Plus (Mindray). WBC Diferential by Fluorescen",
+          "conf": 0.9467629790306091,
+          "bbox": [
+            [
+              98.0,
+              1312.0
+            ],
+            [
+              1033.0,
+              1312.0
+            ],
+            [
+              1033.0,
+              1335.0
+            ],
+            [
+              98.0,
+              1335.0
+            ]
+          ]
+        },
+        {
+          "text": "Flowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.",
+          "conf": 0.9612255692481995,
+          "bbox": [
+            [
+              95.0,
+              1328.0
+            ],
+            [
+              799.0,
+              1329.0
+            ],
+            [
+              799.0,
+              1352.0
+            ],
+            [
+              95.0,
+              1351.0
+            ]
+          ]
+        },
+        {
+          "text": "Print.Date .17-09-2025 05:38PM",
+          "conf": 0.9537674784660339,
+          "bbox": [
+            [
+              76.0,
+              1396.0
+            ],
+            [
+              277.0,
+              1398.0
+            ],
+            [
+              277.0,
+              1417.0
+            ],
+            [
+              76.0,
+              1415.0
+            ]
+          ]
+        },
+        {
+          "text": "R.&hand's",
+          "conf": 0.5049946308135986,
+          "bbox": [
+            [
+              659.0,
+              1401.0
+            ],
+            [
+              762.0,
+              1392.0
+            ],
+            [
+              765.0,
+              1429.0
+            ],
+            [
+              662.0,
+              1437.0
+            ]
+          ]
+        },
+        {
+          "text": "Dr.Ashish N. Dhande",
+          "conf": 0.9953067898750305,
+          "bbox": [
+            [
+              646.0,
+              1445.0
+            ],
+            [
+              816.0,
+              1445.0
+            ],
+            [
+              816.0,
+              1468.0
+            ],
+            [
+              646.0,
+              1468.0
+            ]
+          ]
+        },
+        {
+          "text": "Dr.Nitin L. Dhande",
+          "conf": 0.9796138405799866,
+          "bbox": [
+            [
+              859.0,
+              1444.0
+            ],
+            [
+              1016.0,
+              1442.0
+            ],
+            [
+              1016.0,
+              1466.0
+            ],
+            [
+              859.0,
+              1468.0
+            ]
+          ]
+        },
+        {
+          "text": ": M.D.(Pathology)",
+          "conf": 0.8621044158935547,
+          "bbox": [
+            [
+              660.0,
+              1464.0
+            ],
+            [
+              789.0,
+              1468.0
+            ],
+            [
+              788.0,
+              1493.0
+            ],
+            [
+              659.0,
+              1489.0
+            ]
+          ]
+        },
+        {
+          "text": "M.D.(Pathology)",
+          "conf": 0.9912564158439636,
+          "bbox": [
+            [
+              884.0,
+              1463.0
+            ],
+            [
+              992.0,
+              1467.0
+            ],
+            [
+              991.0,
+              1491.0
+            ],
+            [
+              883.0,
+              1487.0
+            ]
+          ]
+        },
+        {
+          "text": "37",
+          "conf": 0.9998393058776855,
+          "bbox": [
+            [
+              90.0,
+              1517.0
+            ],
+            [
+              133.0,
+              1517.0
+            ],
+            [
+              133.0,
+              1547.0
+            ],
+            [
+              90.0,
+              1547.0
+            ]
+          ]
+        },
+        {
+          "text": "\"Laboratory accredlted as per ISO 15189: 2022 by NABL vide Certificate No. MC-6967.\"",
+          "conf": 0.9526649713516235,
+          "bbox": [
+            [
+              370.0,
+              1526.0
+            ],
+            [
+              900.0,
+              1523.0
+            ],
+            [
+              901.0,
+              1545.0
+            ],
+            [
+              370.0,
+              1549.0
+            ]
+          ]
+        },
+        {
+          "text": "Page 1 of 6",
+          "conf": 0.9363477826118469,
+          "bbox": [
+            [
+              975.0,
+              1523.0
+            ],
+            [
+              1059.0,
+              1523.0
+            ],
+            [
+              1059.0,
+              1547.0
+            ],
+            [
+              975.0,
+              1547.0
+            ]
+          ]
+        },
+        {
+          "text": "D",
+          "conf": 0.8991090059280396,
+          "bbox": [
+            [
+              134.0,
+              1544.0
+            ],
+            [
+              174.0,
+              1544.0
+            ],
+            [
+              174.0,
+              1558.0
+            ],
+            [
+              134.0,
+              1558.0
+            ]
+          ]
+        },
+        {
+          "text": "Mc-++*7",
+          "conf": 0.6067585945129395,
+          "bbox": [
+            [
+              291.0,
+              1538.0
+            ],
+            [
+              337.0,
+              1538.0
+            ],
+            [
+              337.0,
+              1556.0
+            ],
+            [
+              291.0,
+              1556.0
+            ]
+          ]
+        },
+        {
+          "text": "EAR",
+          "conf": 0.6807520985603333,
+          "bbox": [
+            [
+              73.0,
+              1552.0
+            ],
+            [
+              147.0,
+              1556.0
+            ],
+            [
+              146.0,
+              1576.0
+            ],
+            [
+              72.0,
+              1572.0
+            ]
+          ]
+        },
+        {
+          "text": ":",
+          "conf": 0.5713399648666382,
+          "bbox": [
+            [
+              663.0,
+              1547.0
+            ],
+            [
+              698.0,
+              1552.0
+            ],
+            [
+              696.0,
+              1571.0
+            ],
+            [
+              660.0,
+              1566.0
+            ]
+          ]
+        },
+        {
+          "text": "r r",
+          "conf": 0.8852017521858215,
+          "bbox": [
+            [
+              663.0,
+              1577.0
+            ],
+            [
+              694.0,
+              1577.0
+            ],
+            [
+              694.0,
+              1596.0
+            ],
+            [
+              663.0,
+              1596.0
+            ]
+          ]
+        },
+        {
+          "text": "of Dedicated Service",
+          "conf": 0.9964593648910522,
+          "bbox": [
+            [
+              34.0,
+              1621.0
+            ],
+            [
+              189.0,
+              1621.0
+            ],
+            [
+              189.0,
+              1644.0
+            ],
+            [
+              34.0,
+              1644.0
+            ]
+          ]
+        },
+        {
+          "text": "1988-2025",
+          "conf": 0.9945825934410095,
+          "bbox": [
+            [
+              64.0,
+              1636.0
+            ],
+            [
+              157.0,
+              1641.0
+            ],
+            [
+              156.0,
+              1665.0
+            ],
+            [
+              63.0,
+              1661.0
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "merged_full_text": "www.dhandepathlab.com\ndhandepathlab@gmail.com\nDedisated r I xerllence\nDhandr\nCIN : U74999PN2014PTC151257\n REGISTERED\nM. D.(Path)\n020 67428400.\nM. D. (Path)\nADORESS\nTiming : $.00 a.m. to 8.30 p.m.\nSundsy : 4.00 .m. to 12.30 p.m.\ng.Ne 52301\nAdd Rag Ne 6398\nReg No 2014041752\nR342017\nRegistration.Date : 13-09-2025\n1.40\nPermanent ID No.\nPaticnt Name\nMRS RANAWARE SWATISANDIP\n: 377315\n:\nPatient ID No.\n $1 Yrs/ Female\n: 3600558\nAge / Gender\n Reg Date/Time\nReference (Dr.)\n: 13-09-2025 08:39am\nMarathe Sachin ; MS(Ortho) D.(Ortho)\nt\nSample Coll.Date/Timc; 13-09-2025 08:39an\nSample Collected : From Prabhat\nReport Date/Time\n: 13-09-2025 06:10pm\nHAEMOGRAM (CBC)\nInvestigation\nResult\nUnits\nReference Range\nHaemoglobin\n:\n13.50\n(Colorimeiric Non Cynmeth)\ngm/dL\n12.0 - 15.0\nRBC Count\n:\n4.68\n(Sheath Fluid Impedence)\nmill/cu mm\n3.8 - 5.8\nHaematocrit (PCV)\n.4\n(Calculated)\n:\n40.90\n%\n36 - 47\nMCV (Mean Corpuscular Volume)\n:\n87.30\n(Derrved from RBC histogram)\nfL\n83 - 101\nMCH (Mean Corpuscular Hb)\n(Calculaud)\n1\n28.80\npg\n27 - 32\nMCHC (Mean Corpuscular Hb Conc.)\n(Calculated)\n:\n33.00\ngm/dL\n32 - 36\nRDW (Red cell Distribution Width)\n:\n12.8\n%\n(Calculated)\n11.6 - 14.0\nRBC Morphology\n:\nNormochromic & Normocytic\nTotal WBC (Leucocyte) Count\n(Fluroscence flow cyiomeiry)\n:\n8370\n-/cu mm\n4,000 - 11,000\nNeutrophils\n52\n%\n40 - 75\nLymphocytes\n1\n: 41\n%\n20 - 40\nEosinophils\n:\n03\n%\n1-6\nMonocytes\n03\n%\n:\n1 - 10\nBasophils\n:\n00\n %\n0-2\nNeutrophi/Lymphocyte ratio(N/L ratio)\n1.24\nRatio\n1.05 - 2.67\n(Calculaied)\nAbsolute Neutrophil Count\n4352\n/cu' mm\n:\n 2000 - 7000\nAbsolute Lymphocyte Count\n: H\n3515\n/cu mm\n1000 - 3000\nAbsolute Eosinophil Count\n251\n:\n/cu mm\n20 - 500\nAbsolute Monocyte Count\n251\n' /cur mm\n:\n 200 - 1000\nAbsolute Basophil Count\n:\n0\nI /cu mm\n0 - 100\nPlatelet Count\n:\n422000\nTcu mm\n1,50,000 - 4,50,000\n(Sheath Jluid mpedence)\nMPV (Mean Platelet Volume)\n: L\n7.1\nfL\n7.8 - 12.0\n(Derived from plaielet histogram)\nPlatelet Remarks\n:\nAdequate\nPBS For Parasites\n:\nMalarial parasites not seen\nEDTA Whoie Blood - Tests done on fully automated five part Haematology anatyzers- XN1000. (Sysmex) BC-6800 Plus (Mindray). WBC Diferential by Fluorescen\nFlowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.\nPrint.Date .17-09-2025 05:38PM\nR.&hand's\nDr.Ashish N. Dhande\nDr.Nitin L. Dhande\n: M.D.(Pathology)\nM.D.(Pathology)\n37\n\"Laboratory accredlted as per ISO 15189: 2022 by NABL vide Certificate No. MC-6967.\"\nPage 1 of 6\nD\nMc-++*7\nEAR\n:\nr r\nof Dedicated Service\n1988-2025",
+  "merged_rows": [
+    "www.dhandepathlab.com",
+    "Dedisated r I xerllence | dhandepathlab@gmail.com",
+    "Dhandr | CIN : U74999PN2014PTC151257",
+    " REGISTERED | ADORESS | Timing : $.00 a.m. to 8.30 p.m. | 020 67428400. | Sundsy : 4.00 .m. to 12.30 p.m. | Add Rag Ne 6398 | M. D.(Path) | g.Ne 52301 | R342017 | Reg No 2014041752 | M. D. (Path)",
+    "Registration.Date : 13-09-2025 | Paticnt Name | : | MRS RANAWARE SWATISANDIP | 1.40 | Permanent ID No. | Patient ID No. | : 3600558 | : 377315",
+    "Reference (Dr.) | Age / Gender |  $1 Yrs/ Female | Marathe Sachin ; MS(Ortho) D.(Ortho) | t |  Reg Date/Time | : 13-09-2025 08:39am",
+    "Sample Collected : From Prabhat | Sample Coll.Date/Timc; 13-09-2025 08:39an",
+    "Report Date/Time | : 13-09-2025 06:10pm",
+    "HAEMOGRAM (CBC)",
+    "Investigation | Result | Units | Reference Range",
+    "Haemoglobin | (Colorimeiric Non Cynmeth) | : | 13.50 | gm/dL | 12.0 - 15.0",
+    "RBC Count | (Sheath Fluid Impedence) | : | 4.68 | mill/cu mm | 3.8 - 5.8",
+    "Haematocrit (PCV) | .4",
+    "(Calculated) | : | 40.90 | % | 36 - 47",
+    "MCV (Mean Corpuscular Volume) | (Derrved from RBC histogram) | : | 87.30 | fL | 83 - 101",
+    "MCH (Mean Corpuscular Hb) | (Calculaud) | 1 | 28.80 | pg | 27 - 32",
+    "MCHC (Mean Corpuscular Hb Conc.) | (Calculated) | : | 33.00 | gm/dL | 32 - 36",
+    "RDW (Red cell Distribution Width) | (Calculated) | : | 12.8 | % | 11.6 - 14.0",
+    "RBC Morphology | : | Normochromic & Normocytic",
+    "(Fluroscence flow cyiomeiry) | Total WBC (Leucocyte) Count | : | 8370 | -/cu mm | 4,000 - 11,000",
+    "Neutrophils | 1 | 52 | % | 40 - 75",
+    "Lymphocytes | : 41 | % | 20 - 40",
+    "Eosinophils | : | 03 | % | 1-6",
+    "Monocytes | : | 03 | % | 1 - 10",
+    "Basophils | : | 00 |  % | 0-2",
+    "Neutrophi/Lymphocyte ratio(N/L ratio) | 1.24 | Ratio | 1.05 - 2.67",
+    "(Calculaied)",
+    "Absolute Neutrophil Count | : | 4352 | /cu' mm |  2000 - 7000",
+    "Absolute Lymphocyte Count | : H | 3515 | /cu mm | 1000 - 3000",
+    "Absolute Eosinophil Count | : | 251 | /cu mm | 20 - 500",
+    "Absolute Monocyte Count | : | 251 | ' /cur mm |  200 - 1000",
+    "Absolute Basophil Count | : | 0 | I /cu mm | 0 - 100",
+    "Platelet Count | : | 422000 | Tcu mm | 1,50,000 - 4,50,000",
+    "(Sheath Jluid mpedence)",
+    "MPV (Mean Platelet Volume) | : L | 7.1 | fL | 7.8 - 12.0",
+    "(Derived from plaielet histogram)",
+    "Platelet Remarks | : | Adequate",
+    "PBS For Parasites | : | Malarial parasites not seen",
+    "EDTA Whoie Blood - Tests done on fully automated five part Haematology anatyzers- XN1000. (Sysmex) BC-6800 Plus (Mindray). WBC Diferential by Fluorescen",
+    "Flowcylometry and Absolute counts are calulated. All abnormal Haemograms are reviewed and contirmed microscopically.",
+    "Print.Date .17-09-2025 05:38PM | R.&hand's",
+    "Dr.Ashish N. Dhande | Dr.Nitin L. Dhande",
+    ": M.D.(Pathology) | M.D.(Pathology)",
+    "EAR | 37 | D | Mc-++*7 | \"Laboratory accredlted as per ISO 15189: 2022 by NABL vide Certificate No. MC-6967.\" | : | Page 1 of 6",
+    "r r",
+    "of Dedicated Service",
+    "1988-2025"
+  ]
+}
